@@ -19,7 +19,6 @@ This repository contains the 4 homework assignments I completed for the Software
         - SUW: Sum of the lengths of all unique words
         - SCAW: Sum of the counts of word lengths (all words)
         - SCUW: sum of the counts of word lengths (unique words)
-                            **`Score = (SCAW - SCUW) / (SAW - SUW + 1)`** 
+                            `Score = (SCAW - SCUW) / (SAW - SUW + 1)` 
 ---
-
 This repo is meant to showcase my learning journey - feedback is welcome, I am trying to improve! :)
