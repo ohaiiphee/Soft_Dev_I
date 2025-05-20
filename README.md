@@ -14,5 +14,12 @@ This repository contains the 4 homework assignments I completed for the Software
     Simulate the Austrian lottery by generating a set of 6 unique random numbers between 1-45.
     
 ## Homework 4
+    Check the lyrics of several songs and award each one a score based on a fictional formula.The lyrics are read from the `.txt` files, and the formula was given by the prof.:
+        - SAW: Sum of the lengths of all the words
+        - SUW: Sum of the lengths of all unique words
+        - SCAW: Sum of the counts of word lengths (all words)
+        - SCUW: sum of the counts of word lengths (unique words)
+                            **`Score = (SCAW - SCUW) / (SAW - SUW + 1)`** 
+
 
 This repo is meant to showcase my learning journey - feedback is welcome, I am trying to improve! :)
