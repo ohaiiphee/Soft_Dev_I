@@ -7,7 +7,7 @@ This repository contains the 4 homework assignments I completed for the Software
         - Between 10-100: 15% tip
         - Over 100: 20% tip
 ## Homework 2
-
+    A simple hangman game with a menu with 3 choices (new game, show score, end game). Words are not repeated during a session, so after guessing all words, a new session must be started (or just add more words to the array for a longer session!)
 ## Homework 3
 
 ## Homework 4
